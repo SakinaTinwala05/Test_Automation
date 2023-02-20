@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1675333344720" stop="1675333469381" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test - 1</name>
+    <title>Suite : Test - 1</title>
+    <test-cases>
+        <test-case start="1675333346881" stop="1675333437550" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675333380708" stop="1675333380712" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333392914" stop="1675333392917" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333418727" stop="1675333418728" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333435984" stop="1675333435987" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11708@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675333346881" stop="1675333437550" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675333380708" stop="1675333380712" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333392914" stop="1675333392917" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333418727" stop="1675333418728" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333435984" stop="1675333435987" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11708@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675333346881" stop="1675333437550" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675333380708" stop="1675333380712" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333392914" stop="1675333392917" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333418727" stop="1675333418728" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333435984" stop="1675333435987" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11708@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675333346881" stop="1675333437550" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675333380708" stop="1675333380712" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333392914" stop="1675333392917" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333418727" stop="1675333418728" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333435984" stop="1675333435987" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11708@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675333437570" stop="1675333467694" status="passed">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675333453882" stop="1675333453883" status="passed">
+                    <name>log[Click on Continue button, false]</name>
+                    <title>Click on Continue button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333466301" stop="1675333466301" status="passed">
+                    <name>log[Click on Continue button, false]</name>
+                    <title>Click on Continue button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11708@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675333437570" stop="1675333467694" status="passed">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675333453882" stop="1675333453883" status="passed">
+                    <name>log[Click on Continue button, false]</name>
+                    <title>Click on Continue button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333466301" stop="1675333466301" status="passed">
+                    <name>log[Click on Continue button, false]</name>
+                    <title>Click on Continue button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11708@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675333437570" stop="1675333467694" status="passed">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675333453882" stop="1675333453883" status="passed">
+                    <name>log[Click on Continue button, false]</name>
+                    <title>Click on Continue button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333466301" stop="1675333466301" status="passed">
+                    <name>log[Click on Continue button, false]</name>
+                    <title>Click on Continue button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11708@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675333437570" stop="1675333467694" status="passed">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675333453882" stop="1675333453883" status="passed">
+                    <name>log[Click on Continue button, false]</name>
+                    <title>Click on Continue button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675333466301" stop="1675333466301" status="passed">
+                    <name>log[Click on Continue button, false]</name>
+                    <title>Click on Continue button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11708@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1675164507155" stop="1675164667518" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test - 1</name>
+    <title>Suite : Test - 1</title>
+    <test-cases>
+        <test-case start="1675164509359" stop="1675164600911" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675164538060" stop="1675164538066" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675164550296" stop="1675164550297" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675164581720" stop="1675164581721" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675164599278" stop="1675164599281" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11088@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675164509359" stop="1675164600911" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675164538060" stop="1675164538066" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675164550296" stop="1675164550297" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675164581720" stop="1675164581721" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675164599278" stop="1675164599281" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11088@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675164509359" stop="1675164600911" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675164538060" stop="1675164538066" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675164550296" stop="1675164550297" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675164581720" stop="1675164581721" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675164599278" stop="1675164599281" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11088@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675164509359" stop="1675164600911" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675164538060" stop="1675164538066" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675164550296" stop="1675164550297" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675164581720" stop="1675164581721" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675164599278" stop="1675164599281" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11088@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675164600926" stop="1675164665713" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: AjaxElementLocator 'By.id: ap_email' (tried for 10 second(s) with 500 milliseconds interval)</message>
+                <stack-trace>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: AjaxElementLocator 'By.id: ap_email' (tried for 10 second(s) with 500 milliseconds interval)&#13;
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)&#13;
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)&#13;
+	at com.PSC.framework.helper.Wait.WaitHelper.waitForVisibility(WaitHelper.java:196)&#13;
+	at com.PSC.helper.PageObject.LoginPage.visibilityEmailAndContinue(LoginPage.java:159)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.amazon_login_page_is_displayed_with_email_and_continue_link(AmazonPage.java:24)&#13;
+	at ✽.Amazon login page is displayed with Email and Continue Link(classpath:BackOffice/Amazon.feature:13)&#13;
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)&#13;
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)&#13;
+	at jdk.proxy2/jdk.proxy2.$Proxy26.isDisplayed(Unknown Source)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)&#13;
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)&#13;
+	at com.PSC.framework.helper.Wait.WaitHelper.waitForVisibility(WaitHelper.java:196)&#13;
+	at com.PSC.helper.PageObject.LoginPage.visibilityEmailAndContinue(LoginPage.java:159)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.amazon_login_page_is_displayed_with_email_and_continue_link(AmazonPage.java:24)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)&#13;
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:86)&#13;
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)&#13;
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:95)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:56466}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e7824e510bc5ea10129a1dede3d68c80
+*** Element info: {Using=id, value=ap_email}&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)&#13;
+	at org.openqa.selenium.By$ById.findElement(By.java:188)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&#13;
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)&#13;
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)&#13;
+	... 56 more&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="d2b9c979-0547-47cb-96af-10802ff74a62-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11088@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675164600926" stop="1675164665713" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: AjaxElementLocator 'By.id: ap_email' (tried for 10 second(s) with 500 milliseconds interval)</message>
+                <stack-trace>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: AjaxElementLocator 'By.id: ap_email' (tried for 10 second(s) with 500 milliseconds interval)&#13;
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)&#13;
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)&#13;
+	at com.PSC.framework.helper.Wait.WaitHelper.waitForVisibility(WaitHelper.java:196)&#13;
+	at com.PSC.helper.PageObject.LoginPage.visibilityEmailAndContinue(LoginPage.java:159)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.amazon_login_page_is_displayed_with_email_and_continue_link(AmazonPage.java:24)&#13;
+	at ✽.Amazon login page is displayed with Email and Continue Link(classpath:BackOffice/Amazon.feature:13)&#13;
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)&#13;
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)&#13;
+	at jdk.proxy2/jdk.proxy2.$Proxy26.isDisplayed(Unknown Source)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)&#13;
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)&#13;
+	at com.PSC.framework.helper.Wait.WaitHelper.waitForVisibility(WaitHelper.java:196)&#13;
+	at com.PSC.helper.PageObject.LoginPage.visibilityEmailAndContinue(LoginPage.java:159)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.amazon_login_page_is_displayed_with_email_and_continue_link(AmazonPage.java:24)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)&#13;
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:86)&#13;
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)&#13;
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:95)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:56466}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e7824e510bc5ea10129a1dede3d68c80
+*** Element info: {Using=id, value=ap_email}&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)&#13;
+	at org.openqa.selenium.By$ById.findElement(By.java:188)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&#13;
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)&#13;
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)&#13;
+	... 56 more&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="d2b9c979-0547-47cb-96af-10802ff74a62-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11088@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675164600926" stop="1675164665713" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: AjaxElementLocator 'By.id: ap_email' (tried for 10 second(s) with 500 milliseconds interval)</message>
+                <stack-trace>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: AjaxElementLocator 'By.id: ap_email' (tried for 10 second(s) with 500 milliseconds interval)&#13;
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)&#13;
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)&#13;
+	at com.PSC.framework.helper.Wait.WaitHelper.waitForVisibility(WaitHelper.java:196)&#13;
+	at com.PSC.helper.PageObject.LoginPage.visibilityEmailAndContinue(LoginPage.java:159)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.amazon_login_page_is_displayed_with_email_and_continue_link(AmazonPage.java:24)&#13;
+	at ✽.Amazon login page is displayed with Email and Continue Link(classpath:BackOffice/Amazon.feature:13)&#13;
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)&#13;
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)&#13;
+	at jdk.proxy2/jdk.proxy2.$Proxy26.isDisplayed(Unknown Source)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)&#13;
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)&#13;
+	at com.PSC.framework.helper.Wait.WaitHelper.waitForVisibility(WaitHelper.java:196)&#13;
+	at com.PSC.helper.PageObject.LoginPage.visibilityEmailAndContinue(LoginPage.java:159)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.amazon_login_page_is_displayed_with_email_and_continue_link(AmazonPage.java:24)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)&#13;
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:86)&#13;
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)&#13;
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:95)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:56466}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e7824e510bc5ea10129a1dede3d68c80
+*** Element info: {Using=id, value=ap_email}&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)&#13;
+	at org.openqa.selenium.By$ById.findElement(By.java:188)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&#13;
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)&#13;
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)&#13;
+	... 56 more&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="d2b9c979-0547-47cb-96af-10802ff74a62-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11088@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675164600926" stop="1675164665713" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: AjaxElementLocator 'By.id: ap_email' (tried for 10 second(s) with 500 milliseconds interval)</message>
+                <stack-trace>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: AjaxElementLocator 'By.id: ap_email' (tried for 10 second(s) with 500 milliseconds interval)&#13;
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)&#13;
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)&#13;
+	at com.PSC.framework.helper.Wait.WaitHelper.waitForVisibility(WaitHelper.java:196)&#13;
+	at com.PSC.helper.PageObject.LoginPage.visibilityEmailAndContinue(LoginPage.java:159)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.amazon_login_page_is_displayed_with_email_and_continue_link(AmazonPage.java:24)&#13;
+	at ✽.Amazon login page is displayed with Email and Continue Link(classpath:BackOffice/Amazon.feature:13)&#13;
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)&#13;
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)&#13;
+	at jdk.proxy2/jdk.proxy2.$Proxy26.isDisplayed(Unknown Source)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)&#13;
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)&#13;
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)&#13;
+	at com.PSC.framework.helper.Wait.WaitHelper.waitForVisibility(WaitHelper.java:196)&#13;
+	at com.PSC.helper.PageObject.LoginPage.visibilityEmailAndContinue(LoginPage.java:159)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.amazon_login_page_is_displayed_with_email_and_continue_link(AmazonPage.java:24)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)&#13;
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:86)&#13;
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)&#13;
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:95)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:56466}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e7824e510bc5ea10129a1dede3d68c80
+*** Element info: {Using=id, value=ap_email}&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)&#13;
+	at org.openqa.selenium.By$ById.findElement(By.java:188)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&#13;
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)&#13;
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)&#13;
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)&#13;
+	... 56 more&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="d2b9c979-0547-47cb-96af-10802ff74a62-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11088@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

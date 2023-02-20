@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1675152051748" stop="1675152068735" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test - 1</name>
+    <title>Suite : Test - 1</title>
+    <test-cases>
+        <test-case start="1675152054124" stop="1675152066719" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7eb82b5121f8c918e0911cf2b0c5415</message>
+                <stack-trace>org.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7eb82b5121f8c918e0911cf2b0c5415&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)&#13;
+	at com.PSC.helper.PageObject.LoginPage.navigateToLoginScreen(LoginPage.java:53)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.user_navigate_to_amazon_login_page(AmazonPage.java:19)&#13;
+	at ✽.User navigate to Amazon Login Page(classpath:BackOffice/Amazon.feature:4)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="1336d2d2-be86-41b6-8467-afcbd4063711-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="12960@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675152054124" stop="1675152066719" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7eb82b5121f8c918e0911cf2b0c5415</message>
+                <stack-trace>org.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7eb82b5121f8c918e0911cf2b0c5415&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)&#13;
+	at com.PSC.helper.PageObject.LoginPage.navigateToLoginScreen(LoginPage.java:53)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.user_navigate_to_amazon_login_page(AmazonPage.java:19)&#13;
+	at ✽.User navigate to Amazon Login Page(classpath:BackOffice/Amazon.feature:4)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="1336d2d2-be86-41b6-8467-afcbd4063711-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="12960@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675152054124" stop="1675152066719" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7eb82b5121f8c918e0911cf2b0c5415</message>
+                <stack-trace>org.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7eb82b5121f8c918e0911cf2b0c5415&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)&#13;
+	at com.PSC.helper.PageObject.LoginPage.navigateToLoginScreen(LoginPage.java:53)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.user_navigate_to_amazon_login_page(AmazonPage.java:19)&#13;
+	at ✽.User navigate to Amazon Login Page(classpath:BackOffice/Amazon.feature:4)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="1336d2d2-be86-41b6-8467-afcbd4063711-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="12960@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675152054124" stop="1675152066719" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7eb82b5121f8c918e0911cf2b0c5415</message>
+                <stack-trace>org.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7eb82b5121f8c918e0911cf2b0c5415&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)&#13;
+	at com.PSC.helper.PageObject.LoginPage.navigateToLoginScreen(LoginPage.java:53)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.user_navigate_to_amazon_login_page(AmazonPage.java:19)&#13;
+	at ✽.User navigate to Amazon Login Page(classpath:BackOffice/Amazon.feature:4)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="1336d2d2-be86-41b6-8467-afcbd4063711-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="12960@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1675339643229" stop="1675339820947" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test - 1</name>
+    <title>Suite : Test - 1</title>
+    <test-cases>
+        <test-case start="1675339645266" stop="1675339757754" status="broken">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ref-tag='nav_em_1_1_1_6']"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60263}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7215543d10b6f335731d6d8d5475e197
+*** Element info: {Using=xpath, value=//*[@data-ref-tag='nav_em_1_1_1_6']}</message>
+                <stack-trace>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ref-tag='nav_em_1_1_1_6']"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60263}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7215543d10b6f335731d6d8d5475e197
+*** Element info: {Using=xpath, value=//*[@data-ref-tag='nav_em_1_1_1_6']}&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)&#13;
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&#13;
+	at com.PSC.helper.PageObject.LoginPage.clickEchoAlexa(LoginPage.java:94)&#13;
+	at com.PSC.framework.stepDefinition.AmazonProductPage.click_on_echo_and_alexa(AmazonProductPage.java:33)&#13;
+	at ✽.Click on Echo and Alexa(classpath:BackOffice/Amazon.feature:7)&#13;
+</stack-trace>
+            </failure>
+            <steps>
+                <step start="1675339672585" stop="1675339672592" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="screenshot" source="15e89d6e-765d-4903-9d68-ff7dc00f4514-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13892@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675339645266" stop="1675339757754" status="broken">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ref-tag='nav_em_1_1_1_6']"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60263}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7215543d10b6f335731d6d8d5475e197
+*** Element info: {Using=xpath, value=//*[@data-ref-tag='nav_em_1_1_1_6']}</message>
+                <stack-trace>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ref-tag='nav_em_1_1_1_6']"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60263}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7215543d10b6f335731d6d8d5475e197
+*** Element info: {Using=xpath, value=//*[@data-ref-tag='nav_em_1_1_1_6']}&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)&#13;
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&#13;
+	at com.PSC.helper.PageObject.LoginPage.clickEchoAlexa(LoginPage.java:94)&#13;
+	at com.PSC.framework.stepDefinition.AmazonProductPage.click_on_echo_and_alexa(AmazonProductPage.java:33)&#13;
+	at ✽.Click on Echo and Alexa(classpath:BackOffice/Amazon.feature:7)&#13;
+</stack-trace>
+            </failure>
+            <steps>
+                <step start="1675339672585" stop="1675339672592" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="screenshot" source="15e89d6e-765d-4903-9d68-ff7dc00f4514-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13892@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675339645266" stop="1675339757754" status="broken">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ref-tag='nav_em_1_1_1_6']"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60263}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7215543d10b6f335731d6d8d5475e197
+*** Element info: {Using=xpath, value=//*[@data-ref-tag='nav_em_1_1_1_6']}</message>
+                <stack-trace>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ref-tag='nav_em_1_1_1_6']"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60263}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7215543d10b6f335731d6d8d5475e197
+*** Element info: {Using=xpath, value=//*[@data-ref-tag='nav_em_1_1_1_6']}&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)&#13;
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&#13;
+	at com.PSC.helper.PageObject.LoginPage.clickEchoAlexa(LoginPage.java:94)&#13;
+	at com.PSC.framework.stepDefinition.AmazonProductPage.click_on_echo_and_alexa(AmazonProductPage.java:33)&#13;
+	at ✽.Click on Echo and Alexa(classpath:BackOffice/Amazon.feature:7)&#13;
+</stack-trace>
+            </failure>
+            <steps>
+                <step start="1675339672585" stop="1675339672592" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="screenshot" source="15e89d6e-765d-4903-9d68-ff7dc00f4514-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13892@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675339645266" stop="1675339757754" status="broken">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ref-tag='nav_em_1_1_1_6']"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60263}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7215543d10b6f335731d6d8d5475e197
+*** Element info: {Using=xpath, value=//*[@data-ref-tag='nav_em_1_1_1_6']}</message>
+                <stack-trace>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ref-tag='nav_em_1_1_1_6']"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60263}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7215543d10b6f335731d6d8d5475e197
+*** Element info: {Using=xpath, value=//*[@data-ref-tag='nav_em_1_1_1_6']}&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)&#13;
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&#13;
+	at com.PSC.helper.PageObject.LoginPage.clickEchoAlexa(LoginPage.java:94)&#13;
+	at com.PSC.framework.stepDefinition.AmazonProductPage.click_on_echo_and_alexa(AmazonProductPage.java:33)&#13;
+	at ✽.Click on Echo and Alexa(classpath:BackOffice/Amazon.feature:7)&#13;
+</stack-trace>
+            </failure>
+            <steps>
+                <step start="1675339672585" stop="1675339672592" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="screenshot" source="15e89d6e-765d-4903-9d68-ff7dc00f4514-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13892@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675339757779" stop="1675339819231" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_password"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:58064}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e90d5615d6a7468b7d5b9e889653065a
+*** Element info: {Using=id, value=ap_password}</message>
+                <stack-trace>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_password"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:58064}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e90d5615d6a7468b7d5b9e889653065a
+*** Element info: {Using=id, value=ap_password}&#13;
+	at jdk.internal.reflect.GeneratedConstructorAccessor16.newInstance(Unknown Source)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)&#13;
+	at org.openqa.selenium.By$ById.findElement(By.java:188)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&#13;
+	at com.PSC.helper.PageObject.LoginPage.enterPassword(LoginPage.java:145)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.user_enter_invalid_email_and_password(AmazonPage.java:62)&#13;
+	at ✽.User Enter invalid email and password(classpath:BackOffice/Amazon.feature:15)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="e6876b51-8954-436d-9bc4-df3c3881f64e-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13892@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675339757779" stop="1675339819231" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_password"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:58064}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e90d5615d6a7468b7d5b9e889653065a
+*** Element info: {Using=id, value=ap_password}</message>
+                <stack-trace>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_password"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:58064}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e90d5615d6a7468b7d5b9e889653065a
+*** Element info: {Using=id, value=ap_password}&#13;
+	at jdk.internal.reflect.GeneratedConstructorAccessor16.newInstance(Unknown Source)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)&#13;
+	at org.openqa.selenium.By$ById.findElement(By.java:188)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&#13;
+	at com.PSC.helper.PageObject.LoginPage.enterPassword(LoginPage.java:145)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.user_enter_invalid_email_and_password(AmazonPage.java:62)&#13;
+	at ✽.User Enter invalid email and password(classpath:BackOffice/Amazon.feature:15)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="e6876b51-8954-436d-9bc4-df3c3881f64e-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13892@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675339757779" stop="1675339819231" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_password"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:58064}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e90d5615d6a7468b7d5b9e889653065a
+*** Element info: {Using=id, value=ap_password}</message>
+                <stack-trace>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_password"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:58064}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e90d5615d6a7468b7d5b9e889653065a
+*** Element info: {Using=id, value=ap_password}&#13;
+	at jdk.internal.reflect.GeneratedConstructorAccessor16.newInstance(Unknown Source)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)&#13;
+	at org.openqa.selenium.By$ById.findElement(By.java:188)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&#13;
+	at com.PSC.helper.PageObject.LoginPage.enterPassword(LoginPage.java:145)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.user_enter_invalid_email_and_password(AmazonPage.java:62)&#13;
+	at ✽.User Enter invalid email and password(classpath:BackOffice/Amazon.feature:15)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="e6876b51-8954-436d-9bc4-df3c3881f64e-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13892@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675339757779" stop="1675339819231" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_password"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:58064}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e90d5615d6a7468b7d5b9e889653065a
+*** Element info: {Using=id, value=ap_password}</message>
+                <stack-trace>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_password"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:58064}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e90d5615d6a7468b7d5b9e889653065a
+*** Element info: {Using=id, value=ap_password}&#13;
+	at jdk.internal.reflect.GeneratedConstructorAccessor16.newInstance(Unknown Source)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)&#13;
+	at org.openqa.selenium.By$ById.findElement(By.java:188)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&#13;
+	at com.PSC.helper.PageObject.LoginPage.enterPassword(LoginPage.java:145)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.user_enter_invalid_email_and_password(AmazonPage.java:62)&#13;
+	at ✽.User Enter invalid email and password(classpath:BackOffice/Amazon.feature:15)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="e6876b51-8954-436d-9bc4-df3c3881f64e-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13892@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

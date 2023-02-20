@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1675329525848" stop="1675329610302" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test - 1</name>
+    <title>Suite : Test - 1</title>
+    <test-cases>
+        <test-case start="1675329528166" stop="1675329608392" status="broken">
+            <name>runScenario["MakeMyTrip Page","Optional[MakeMyTrip Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>ElementClickInterceptedException: element click intercepted: Element &lt;a class="primaryBtn font24 latoBold widget...Btn "&gt;Search&lt;/a&gt; is not clickable at point (759, 439). Other element would receive the click: &lt;div class="hsBackDrop"&gt;&lt;/div&gt;
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:61925}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c1d35d9163aa57ef7346dbe47327871</message>
+                <stack-trace>org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;a class="primaryBtn font24 latoBold widget...Btn "&gt;Search&lt;/a&gt; is not clickable at point (759, 439). Other element would receive the click: &lt;div class="hsBackDrop"&gt;&lt;/div&gt;
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:61925}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c1d35d9163aa57ef7346dbe47327871&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#13;
+	at com.PSC.helper.PageObject.MakeMyTrip.clickSearch(MakeMyTrip.java:100)&#13;
+	at com.PSC.framework.stepDefinition.MakeMyTripStepDef.click_on_search_button(MakeMyTripStepDef.java:48)&#13;
+	at ✽.Click on search button(classpath:BackOffice/MakeMytrip.feature:10)&#13;
+</stack-trace>
+            </failure>
+            <steps>
+                <step start="1675329590412" stop="1675329590418" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="screenshot" source="4ab7feef-4aba-4e6d-8971-7348de7bd90e-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="1632@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675329528166" stop="1675329608392" status="broken">
+            <name>runScenario["MakeMyTrip Page","Optional[MakeMyTrip Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>ElementClickInterceptedException: element click intercepted: Element &lt;a class="primaryBtn font24 latoBold widget...Btn "&gt;Search&lt;/a&gt; is not clickable at point (759, 439). Other element would receive the click: &lt;div class="hsBackDrop"&gt;&lt;/div&gt;
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:61925}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c1d35d9163aa57ef7346dbe47327871</message>
+                <stack-trace>org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;a class="primaryBtn font24 latoBold widget...Btn "&gt;Search&lt;/a&gt; is not clickable at point (759, 439). Other element would receive the click: &lt;div class="hsBackDrop"&gt;&lt;/div&gt;
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:61925}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c1d35d9163aa57ef7346dbe47327871&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#13;
+	at com.PSC.helper.PageObject.MakeMyTrip.clickSearch(MakeMyTrip.java:100)&#13;
+	at com.PSC.framework.stepDefinition.MakeMyTripStepDef.click_on_search_button(MakeMyTripStepDef.java:48)&#13;
+	at ✽.Click on search button(classpath:BackOffice/MakeMytrip.feature:10)&#13;
+</stack-trace>
+            </failure>
+            <steps>
+                <step start="1675329590412" stop="1675329590418" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="screenshot" source="4ab7feef-4aba-4e6d-8971-7348de7bd90e-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="1632@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675329528166" stop="1675329608392" status="broken">
+            <name>runScenario["MakeMyTrip Page","Optional[MakeMyTrip Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>ElementClickInterceptedException: element click intercepted: Element &lt;a class="primaryBtn font24 latoBold widget...Btn "&gt;Search&lt;/a&gt; is not clickable at point (759, 439). Other element would receive the click: &lt;div class="hsBackDrop"&gt;&lt;/div&gt;
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:61925}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c1d35d9163aa57ef7346dbe47327871</message>
+                <stack-trace>org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;a class="primaryBtn font24 latoBold widget...Btn "&gt;Search&lt;/a&gt; is not clickable at point (759, 439). Other element would receive the click: &lt;div class="hsBackDrop"&gt;&lt;/div&gt;
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:61925}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c1d35d9163aa57ef7346dbe47327871&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#13;
+	at com.PSC.helper.PageObject.MakeMyTrip.clickSearch(MakeMyTrip.java:100)&#13;
+	at com.PSC.framework.stepDefinition.MakeMyTripStepDef.click_on_search_button(MakeMyTripStepDef.java:48)&#13;
+	at ✽.Click on search button(classpath:BackOffice/MakeMytrip.feature:10)&#13;
+</stack-trace>
+            </failure>
+            <steps>
+                <step start="1675329590412" stop="1675329590418" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="screenshot" source="4ab7feef-4aba-4e6d-8971-7348de7bd90e-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="1632@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675329528166" stop="1675329608392" status="broken">
+            <name>runScenario["MakeMyTrip Page","Optional[MakeMyTrip Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>ElementClickInterceptedException: element click intercepted: Element &lt;a class="primaryBtn font24 latoBold widget...Btn "&gt;Search&lt;/a&gt; is not clickable at point (759, 439). Other element would receive the click: &lt;div class="hsBackDrop"&gt;&lt;/div&gt;
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:61925}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c1d35d9163aa57ef7346dbe47327871</message>
+                <stack-trace>org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;a class="primaryBtn font24 latoBold widget...Btn "&gt;Search&lt;/a&gt; is not clickable at point (759, 439). Other element would receive the click: &lt;div class="hsBackDrop"&gt;&lt;/div&gt;
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-8TF2HVC', ip: '192.168.8.226', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ecs\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:61925}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c1d35d9163aa57ef7346dbe47327871&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#13;
+	at com.PSC.helper.PageObject.MakeMyTrip.clickSearch(MakeMyTrip.java:100)&#13;
+	at com.PSC.framework.stepDefinition.MakeMyTripStepDef.click_on_search_button(MakeMyTripStepDef.java:48)&#13;
+	at ✽.Click on search button(classpath:BackOffice/MakeMytrip.feature:10)&#13;
+</stack-trace>
+            </failure>
+            <steps>
+                <step start="1675329590412" stop="1675329590418" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="screenshot" source="4ab7feef-4aba-4e6d-8971-7348de7bd90e-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="1632@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

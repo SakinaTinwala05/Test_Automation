@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1675070103124" stop="1675070107819" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test - 1</name>
+    <title>Suite : Test - 1</title>
+    <test-cases>
+        <test-case start="1675070105145" stop="1675070105743" status="broken">
+            <name>runScenario["Planet Back-office Login","Optional[Planet Back-office Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()</message>
+                <stack-trace>io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()&#13;
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:277)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:271)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13576@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675070105145" stop="1675070105743" status="broken">
+            <name>runScenario["Planet Back-office Login","Optional[Planet Back-office Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()</message>
+                <stack-trace>io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()&#13;
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:277)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:271)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13576@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675070105145" stop="1675070105743" status="broken">
+            <name>runScenario["Planet Back-office Login","Optional[Planet Back-office Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()</message>
+                <stack-trace>io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()&#13;
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:277)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:271)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13576@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675070105145" stop="1675070105743" status="broken">
+            <name>runScenario["Planet Back-office Login","Optional[Planet Back-office Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()</message>
+                <stack-trace>io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()&#13;
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:277)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:271)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13576@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675070105763" stop="1675070105786" status="broken">
+            <name>runScenario["Planet Back-office Dashboard","Optional[Planet Back-office Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()</message>
+                <stack-trace>io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()&#13;
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:277)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:271)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13576@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675070105763" stop="1675070105786" status="broken">
+            <name>runScenario["Planet Back-office Dashboard","Optional[Planet Back-office Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()</message>
+                <stack-trace>io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()&#13;
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:277)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:271)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13576@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675070105763" stop="1675070105786" status="broken">
+            <name>runScenario["Planet Back-office Dashboard","Optional[Planet Back-office Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()</message>
+                <stack-trace>io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()&#13;
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:277)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:271)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13576@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675070105763" stop="1675070105786" status="broken">
+            <name>runScenario["Planet Back-office Dashboard","Optional[Planet Back-office Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()</message>
+                <stack-trace>io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in com.PSC.framework.stepDefinition.FbLogin.user_enter_invalid_email_password() and com.PSC.framework.stepDefinition.LoginStepDef.user_enter_invalid_email_password()&#13;
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:277)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:271)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="13576@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

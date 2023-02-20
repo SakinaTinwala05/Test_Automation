@@ -1,0 +1,1328 @@
+2023-01-30 11:53:50 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-30 11:53:56 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 11:53:56 [INFO ] [WebDriverManager] - [logSeekRepo] Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2023-01-30 11:53:58 [INFO ] [Downloader] - [downloadAndExtract] Downloading https://chromedriver.storage.googleapis.com/109.0.5414.74/chromedriver_win32.zip
+2023-01-30 11:54:06 [INFO ] [Downloader] - [extract] Extracting driver from compressed file chromedriver_win32.zip
+2023-01-30 11:54:06 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 11:54:14 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-30 11:55:58 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-30 11:56:00 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 11:56:00 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 11:56:06 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-30 11:57:39 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-30\Planet Back-office Login.jpg
+2023-01-30 11:57:44 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-30 11:57:44 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-30 11:57:44 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-30 11:57:44 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 11:57:44 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 11:57:46 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-30 12:16:23 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-30 12:16:25 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 12:16:25 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 12:16:33 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-30 12:16:36 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (2b47dd0aa0d493fd02ce60d60b39a2f5)] -> id: login-email]
+2023-01-30 12:16:36 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-30 12:16:36 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-30 12:16:37 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (2b47dd0aa0d493fd02ce60d60b39a2f5)] -> id: login-email] Value : j.sarvaiya8261@planetsmartcity.in
+2023-01-30 12:16:37 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (2b47dd0aa0d493fd02ce60d60b39a2f5)] -> id: login-password]
+2023-01-30 12:16:37 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-30 12:16:37 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-30 12:16:37 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (2b47dd0aa0d493fd02ce60d60b39a2f5)] -> id: login-password] Value : password
+2023-01-30 12:16:37 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-30 12:16:48 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (2b47dd0aa0d493fd02ce60d60b39a2f5)] -> xpath: //*[text()='LOGIN']]
+2023-01-30 12:16:51 [INFO ] [PageBase] - [log] Click on Login button
+2023-01-30 12:17:53 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-30\Planet Back-office Login.jpg
+2023-01-30 12:17:54 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-30 12:17:54 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-30 12:17:54 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-30 12:17:54 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 12:17:54 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 12:17:56 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-30 12:17:59 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (d5bd5bdfa62c4b26f124c2c9de245c1e)] -> id: login-email]
+2023-01-30 12:17:59 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-30 12:17:59 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-30 12:17:59 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (d5bd5bdfa62c4b26f124c2c9de245c1e)] -> id: login-email] Value : j.sarvaiya8261@planetsmartcity.in
+2023-01-30 12:17:59 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (d5bd5bdfa62c4b26f124c2c9de245c1e)] -> id: login-password]
+2023-01-30 12:17:59 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-30 12:17:59 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-30 12:18:00 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (d5bd5bdfa62c4b26f124c2c9de245c1e)] -> id: login-password] Value : password
+2023-01-30 12:18:00 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-30 12:18:11 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (d5bd5bdfa62c4b26f124c2c9de245c1e)] -> xpath: //*[text()='LOGIN']]
+2023-01-30 12:18:11 [INFO ] [PageBase] - [log] Click on Login button
+2023-01-30 12:18:12 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-30 12:18:12 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-30 12:18:19 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-30 13:40:57 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-30 13:41:00 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 13:41:00 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 13:41:03 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-30 13:41:04 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-30 13:41:04 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-30 13:45:29 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-30 13:48:42 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-30 13:50:37 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-30 13:57:11 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-30 13:57:12 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 13:57:12 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 13:57:18 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-30 13:57:19 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-30 13:57:19 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-30 14:45:16 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-30 14:46:27 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-30 14:47:56 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-30 14:47:59 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 14:47:59 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 14:48:03 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-30 14:48:05 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-30 14:48:05 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-30 14:48:05 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-30 14:48:05 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 14:48:05 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 14:48:06 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-30 14:48:07 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-30 14:48:07 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-30 14:50:24 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-30 14:50:25 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 14:50:25 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 14:50:29 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-30 14:50:30 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-30 14:50:30 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-30 16:20:51 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-30 16:20:54 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 16:20:54 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 16:20:58 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-30 16:20:59 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-30 16:20:59 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-30 16:22:04 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-30 16:22:05 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 16:22:06 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 16:22:10 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-30 16:22:11 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-30 16:22:11 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 09:46:13 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 09:46:15 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 09:46:16 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 09:46:22 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 09:46:23 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 09:46:23 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 09:48:49 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 09:48:50 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 09:48:50 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 09:48:54 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 09:48:55 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 09:48:55 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 09:49:04 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 10:05:21 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 10:05:22 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 10:05:22 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 10:05:32 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 10:05:33 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 10:05:33 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 11:27:50 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 11:27:54 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 11:27:54 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 11:27:59 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 11:28:00 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 11:28:00 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 11:28:11 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 11:34:05 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 11:34:08 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 11:34:08 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 11:34:18 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 11:34:19 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 11:34:19 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 11:34:32 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 11:39:45 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 11:42:10 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 11:44:59 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 11:47:37 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 11:47:39 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 11:47:39 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 11:47:46 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 11:48:51 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-31\Facebook Login.jpg
+2023-01-31 11:48:56 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 11:48:56 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 11:49:07 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 12:17:29 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 12:17:31 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 12:17:31 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 12:17:33 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 12:17:34 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 12:17:34 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 12:54:11 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 12:54:14 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 12:54:14 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 12:54:20 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 12:54:23 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (c6ebd950d31ad594dd292e7250d6beb1)] -> id: ap_email]
+2023-01-31 12:54:23 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 12:54:24 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 12:54:24 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (c6ebd950d31ad594dd292e7250d6beb1)] -> id: ap_email] Value : j.sarvaiya8261@planetsmartcity.in
+2023-01-31 12:54:24 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 12:54:36 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (c6ebd950d31ad594dd292e7250d6beb1)] -> id: continue]
+2023-01-31 12:54:38 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 12:55:40 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-31\Amazon Login.jpg
+2023-01-31 12:55:41 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 12:55:41 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 12:55:48 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 12:58:00 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 12:58:01 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 12:58:01 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 12:58:05 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 12:58:08 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (1c816cc19135e35749857109a5045455)] -> id: ap_email]
+2023-01-31 12:58:08 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 12:58:08 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 12:58:09 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (1c816cc19135e35749857109a5045455)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-01-31 12:58:09 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 12:58:22 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (1c816cc19135e35749857109a5045455)] -> id: continue]
+2023-01-31 12:58:25 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 12:58:26 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (1c816cc19135e35749857109a5045455)] -> id: ap_password]
+2023-01-31 12:58:26 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 12:58:26 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 12:58:26 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (1c816cc19135e35749857109a5045455)] -> id: ap_password] Value : Sakina@123
+2023-01-31 12:58:26 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 12:58:37 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (1c816cc19135e35749857109a5045455)] -> id: signInSubmit]
+2023-01-31 12:58:37 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 12:58:39 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 12:58:39 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 12:58:45 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 13:01:03 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 13:01:05 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 13:01:05 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 13:01:09 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 13:01:12 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (7437fb5ce542a62f4c190f83542b3a36)] -> id: ap_email]
+2023-01-31 13:01:12 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 13:01:12 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 13:01:12 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (7437fb5ce542a62f4c190f83542b3a36)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-01-31 13:01:12 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 13:01:24 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (7437fb5ce542a62f4c190f83542b3a36)] -> id: continue]
+2023-01-31 13:01:27 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 13:01:28 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (7437fb5ce542a62f4c190f83542b3a36)] -> id: ap_password]
+2023-01-31 13:01:28 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 13:01:28 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 13:01:28 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (7437fb5ce542a62f4c190f83542b3a36)] -> id: ap_password] Value : Sakina@123
+2023-01-31 13:01:28 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 13:01:40 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (7437fb5ce542a62f4c190f83542b3a36)] -> id: signInSubmit]
+2023-01-31 13:01:40 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 13:01:41 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 13:01:41 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 13:01:48 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 13:03:30 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 13:03:32 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 13:03:32 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 13:03:35 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 13:03:47 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (4df78eb0c6f9c6b142c0b0f3f3ef7f87)] -> id: ap_email]
+2023-01-31 13:03:47 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 13:03:47 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 13:03:48 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (4df78eb0c6f9c6b142c0b0f3f3ef7f87)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-01-31 13:03:48 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 13:04:00 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (4df78eb0c6f9c6b142c0b0f3f3ef7f87)] -> id: continue]
+2023-01-31 13:04:02 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 13:04:03 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (4df78eb0c6f9c6b142c0b0f3f3ef7f87)] -> id: ap_password]
+2023-01-31 13:04:03 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 13:04:03 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 13:04:04 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (4df78eb0c6f9c6b142c0b0f3f3ef7f87)] -> id: ap_password] Value : Sakina@123
+2023-01-31 13:04:04 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 13:04:15 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (4df78eb0c6f9c6b142c0b0f3f3ef7f87)] -> id: signInSubmit]
+2023-01-31 13:04:15 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 13:04:16 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 13:04:16 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 13:04:22 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 13:30:54 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 13:30:56 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 13:30:56 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 13:31:00 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 13:31:02 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-31\Amazon Login.jpg
+2023-01-31 13:31:06 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 13:31:06 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 13:31:13 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 13:31:41 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 13:31:42 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 13:31:42 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 13:31:47 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 13:31:50 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (065b81ae309f7e0e9eed73d8cadda0d3)] -> id: ap_email]
+2023-01-31 13:31:50 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 13:31:50 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 13:31:51 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (065b81ae309f7e0e9eed73d8cadda0d3)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-01-31 13:31:51 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 13:32:04 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (065b81ae309f7e0e9eed73d8cadda0d3)] -> id: continue]
+2023-01-31 13:32:07 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 13:32:08 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (065b81ae309f7e0e9eed73d8cadda0d3)] -> id: ap_password]
+2023-01-31 13:32:08 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 13:32:08 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 13:32:08 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (065b81ae309f7e0e9eed73d8cadda0d3)] -> id: ap_password] Value : Sakina@123
+2023-01-31 13:32:08 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 13:32:19 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (065b81ae309f7e0e9eed73d8cadda0d3)] -> id: signInSubmit]
+2023-01-31 13:32:19 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 13:32:21 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 13:32:21 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 13:32:28 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 14:20:52 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 14:20:56 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 14:20:56 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 14:21:00 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 14:21:02 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (15eff0209ca4160c02ef54a443b032a4)] -> id: ap_email]
+2023-01-31 14:21:02 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 14:21:03 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 14:21:03 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (15eff0209ca4160c02ef54a443b032a4)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-01-31 14:21:03 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 14:21:15 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (15eff0209ca4160c02ef54a443b032a4)] -> id: continue]
+2023-01-31 14:21:18 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 14:21:19 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (15eff0209ca4160c02ef54a443b032a4)] -> id: ap_password]
+2023-01-31 14:21:19 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 14:21:19 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 14:21:20 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (15eff0209ca4160c02ef54a443b032a4)] -> id: ap_password] Value : Sakina@123
+2023-01-31 14:21:20 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 14:21:31 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (15eff0209ca4160c02ef54a443b032a4)] -> id: signInSubmit]
+2023-01-31 14:21:31 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 14:21:32 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 14:21:32 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 14:21:39 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 15:26:49 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 15:26:52 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 15:26:52 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 15:26:55 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 15:26:56 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 15:26:56 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 15:26:56 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 15:26:56 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 15:26:56 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 15:26:57 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 15:28:39 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 15:28:40 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 15:28:40 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 15:28:42 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 15:28:42 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 15:28:42 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 15:28:42 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 15:28:43 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 15:28:43 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 15:28:44 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 15:29:58 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\classes\screenshots\_2023-01-31\Amazon Login.jpg
+2023-01-31 15:30:00 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 15:30:00 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 16:39:16 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 16:39:19 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 16:39:19 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 16:39:24 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 16:39:34 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 16:39:46 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (6868e97237cce9bac999528ce46572ae)] -> id: nav-hamburger-menu]
+2023-01-31 16:39:48 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 16:39:49 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 16:41:12 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-31\Amazon Page.jpg
+2023-01-31 16:41:13 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 16:41:13 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 16:41:13 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 16:41:13 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 16:41:13 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 16:41:15 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 16:42:27 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-31\Amazon Login.jpg
+2023-01-31 16:42:28 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 16:42:28 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 16:42:36 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 16:54:31 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 16:54:32 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 16:54:33 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 16:54:37 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 16:54:49 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 16:55:00 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (7c35acecc6fe4fe746f0b57202dc91b4)] -> id: nav-hamburger-menu]
+2023-01-31 16:55:04 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 16:55:05 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 16:55:16 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (7c35acecc6fe4fe746f0b57202dc91b4)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-01-31 16:55:16 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 16:56:20 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-31\Amazon Page.jpg
+2023-01-31 16:56:22 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 16:56:22 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 16:56:22 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 16:56:22 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 16:56:22 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 16:56:24 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 16:58:30 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 16:58:31 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 16:58:31 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 16:58:35 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 16:58:42 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 16:58:54 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (597d99bf8c0ae897552d6364fc3a188c)] -> id: nav-hamburger-menu]
+2023-01-31 16:58:58 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 16:58:59 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 16:59:10 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (597d99bf8c0ae897552d6364fc3a188c)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-01-31 16:59:10 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 16:59:11 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 16:59:41 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (597d99bf8c0ae897552d6364fc3a188c)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-01-31 16:59:41 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 16:59:42 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 16:59:59 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (597d99bf8c0ae897552d6364fc3a188c)] -> id: buy-now-button]
+2023-01-31 16:59:59 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 17:00:00 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 17:00:00 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 17:00:00 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 17:00:00 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 17:00:01 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 17:00:02 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 17:01:04 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-31\Amazon Login.jpg
+2023-01-31 17:01:05 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 17:01:05 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 17:01:12 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 17:08:55 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 17:08:56 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 17:08:56 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 17:09:01 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 17:09:06 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:09:17 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (e9063aaa6f3fd40359d1aa6ec37cda0f)] -> id: nav-hamburger-menu]
+2023-01-31 17:09:20 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 17:09:21 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:09:32 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (e9063aaa6f3fd40359d1aa6ec37cda0f)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-01-31 17:09:32 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 17:09:33 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:09:50 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (e9063aaa6f3fd40359d1aa6ec37cda0f)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-01-31 17:09:50 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 17:09:51 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:10:05 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (e9063aaa6f3fd40359d1aa6ec37cda0f)] -> id: buy-now-button]
+2023-01-31 17:10:05 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 17:10:06 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 17:10:06 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 17:10:06 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 17:10:06 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 17:10:06 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 17:10:08 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 17:10:09 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-31\Amazon Login.jpg
+2023-01-31 17:10:10 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 17:10:10 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 17:10:16 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 17:15:58 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 17:15:59 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 17:15:59 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 17:16:04 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 17:16:10 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:16:34 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (846fac640360485016ed6ea98344394a)] -> id: nav-hamburger-menu]
+2023-01-31 17:16:37 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 17:16:38 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:18:00 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-31\Amazon Page.jpg
+2023-01-31 17:18:02 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 17:18:02 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 17:18:02 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 17:18:02 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 17:18:02 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 17:18:04 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 17:18:05 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (7effada698330ad160acea56201fd131)] -> id: ap_email]
+2023-01-31 17:18:05 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 17:18:06 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 17:18:06 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (7effada698330ad160acea56201fd131)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-01-31 17:18:06 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:18:19 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (7effada698330ad160acea56201fd131)] -> id: continue]
+2023-01-31 17:18:19 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 17:18:21 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (7effada698330ad160acea56201fd131)] -> id: ap_password]
+2023-01-31 17:18:21 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 17:18:21 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 17:18:21 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (7effada698330ad160acea56201fd131)] -> id: ap_password] Value : Sakina@123
+2023-01-31 17:18:21 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:18:32 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (7effada698330ad160acea56201fd131)] -> id: signInSubmit]
+2023-01-31 17:18:32 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 17:18:33 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 17:18:33 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 17:18:40 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 17:22:02 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 17:22:04 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 17:22:04 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 17:22:24 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 17:22:34 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:22:46 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (601f4f4f962c957cda4539aeefdb9586)] -> id: nav-hamburger-menu]
+2023-01-31 17:22:51 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 17:22:52 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:24:15 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-31\Amazon Page.jpg
+2023-01-31 17:24:17 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 17:24:17 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 17:24:17 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 17:24:17 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 17:24:17 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 17:24:19 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 17:24:22 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (435da60f6f825670ec8e0a635d8d0cc4)] -> id: ap_email]
+2023-01-31 17:24:22 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 17:24:22 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 17:24:23 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (435da60f6f825670ec8e0a635d8d0cc4)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-01-31 17:24:23 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:33:09 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 17:33:10 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 17:33:10 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 17:33:15 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 17:33:22 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:33:33 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (c7d5d38f61a3f4bba35b40e5f0ffea5d)] -> id: nav-hamburger-menu]
+2023-01-31 17:33:36 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 17:33:37 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:35:00 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-31\Amazon Page.jpg
+2023-01-31 17:35:02 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 17:35:02 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 17:35:02 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 17:35:02 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 17:35:02 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 17:35:04 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 17:35:07 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (37e74cab7e30a10e114a9d9aed914370)] -> id: ap_email]
+2023-01-31 17:35:07 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 17:35:07 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 17:36:45 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 17:36:47 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 17:36:47 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 17:36:51 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 17:37:00 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:37:12 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (22838b295d651e59e96a710dd278eb49)] -> id: nav-hamburger-menu]
+2023-01-31 17:37:15 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 17:37:16 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:37:27 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (22838b295d651e59e96a710dd278eb49)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-01-31 17:37:27 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 17:37:29 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:38:14 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (22838b295d651e59e96a710dd278eb49)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-01-31 17:38:14 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 17:38:15 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:38:35 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (22838b295d651e59e96a710dd278eb49)] -> id: buy-now-button]
+2023-01-31 17:38:35 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 17:38:36 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 17:38:36 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 17:38:36 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 17:38:36 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 17:38:36 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 17:38:38 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 17:38:44 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (de45b2f276a28615c84a08c2f412dd9e)] -> id: ap_email]
+2023-01-31 17:38:44 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 17:38:44 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 17:38:44 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (de45b2f276a28615c84a08c2f412dd9e)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-01-31 17:38:44 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:38:56 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (de45b2f276a28615c84a08c2f412dd9e)] -> id: continue]
+2023-01-31 17:38:56 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 17:38:58 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (de45b2f276a28615c84a08c2f412dd9e)] -> id: ap_password]
+2023-01-31 17:38:58 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 17:38:58 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 17:38:58 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (de45b2f276a28615c84a08c2f412dd9e)] -> id: ap_password] Value : Sakina@123
+2023-01-31 17:38:58 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 17:39:09 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (de45b2f276a28615c84a08c2f412dd9e)] -> id: signInSubmit]
+2023-01-31 17:39:09 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 17:39:10 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 17:39:10 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 17:39:18 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-01-31 18:28:27 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 18:28:30 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 18:28:30 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 18:28:34 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 18:28:45 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 18:29:34 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 18:29:35 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 18:29:35 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 18:29:39 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 18:29:44 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 18:29:55 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (aa6dd9b4ea8cec05d31605b4e1e126a4)] -> id: nav-hamburger-menu]
+2023-01-31 18:29:59 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 18:30:00 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 18:31:22 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-01-31\Amazon Page.jpg
+2023-01-31 18:31:24 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 18:31:24 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 18:31:24 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 18:31:24 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 18:31:24 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 18:31:26 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 18:31:29 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (8a5f9474d7629190cb5a5e5425baea44)] -> id: ap_email]
+2023-01-31 18:31:29 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 18:31:29 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 18:31:29 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (8a5f9474d7629190cb5a5e5425baea44)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-01-31 18:31:29 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 18:33:39 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 18:33:40 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 18:33:41 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 18:33:51 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 18:33:58 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 18:34:10 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (d9962c9be81c9917cafeadd37896b432)] -> id: nav-hamburger-menu]
+2023-01-31 18:34:13 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 18:34:14 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 18:34:25 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (d9962c9be81c9917cafeadd37896b432)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-01-31 18:34:25 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 18:34:26 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 18:34:53 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (d9962c9be81c9917cafeadd37896b432)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-01-31 18:34:53 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 18:34:54 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 18:35:07 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (d9962c9be81c9917cafeadd37896b432)] -> id: buy-now-button]
+2023-01-31 18:35:07 [INFO ] [PageBase] - [log] Click on All button
+2023-01-31 18:35:09 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 18:35:09 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 18:35:09 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-01-31 18:35:09 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-31 18:35:09 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-31 18:35:11 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-01-31 18:35:13 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (2367882bd96312b1b3d1ea91fa07b4ec)] -> id: ap_email]
+2023-01-31 18:35:13 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 18:35:13 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 18:35:14 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (2367882bd96312b1b3d1ea91fa07b4ec)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-01-31 18:35:14 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 18:35:27 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (2367882bd96312b1b3d1ea91fa07b4ec)] -> id: continue]
+2023-01-31 18:35:27 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 18:35:28 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (2367882bd96312b1b3d1ea91fa07b4ec)] -> id: ap_password]
+2023-01-31 18:35:28 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-01-31 18:35:28 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-01-31 18:35:28 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (2367882bd96312b1b3d1ea91fa07b4ec)] -> id: ap_password] Value : Sakina@123
+2023-01-31 18:35:28 [INFO ] [WaitHelper] - [hardWait] 900
+2023-01-31 18:35:39 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (2367882bd96312b1b3d1ea91fa07b4ec)] -> id: signInSubmit]
+2023-01-31 18:35:39 [INFO ] [PageBase] - [log] Click on Continue button
+2023-01-31 18:35:41 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-01-31 18:35:41 [INFO ] [InitializeWebDriver] - [after] 
+2023-01-31 18:35:49 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-01 09:42:29 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-01 09:42:32 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-01 09:42:32 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-01 09:42:36 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-01 09:42:50 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 09:43:02 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (8d3787166a0be40159622b093c6fff58)] -> id: nav-hamburger-menu]
+2023-02-01 09:43:02 [INFO ] [PageBase] - [log] Click on All button
+2023-02-01 09:43:03 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 09:44:25 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\classes\screenshots\_2023-02-01\Amazon Page.jpg
+2023-02-01 09:44:27 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-01 09:44:27 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-01 09:44:27 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-01 09:44:27 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-01 09:44:27 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-01 09:44:28 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-01 09:44:32 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (c4c638a72cf6f91a49c42cf2ca1217e4)] -> id: ap_email]
+2023-02-01 09:44:32 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-01 09:44:32 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-01 09:44:32 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (c4c638a72cf6f91a49c42cf2ca1217e4)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-01 09:44:32 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 09:44:44 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (c4c638a72cf6f91a49c42cf2ca1217e4)] -> id: continue]
+2023-02-01 09:44:44 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-01 09:44:45 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (c4c638a72cf6f91a49c42cf2ca1217e4)] -> id: ap_password]
+2023-02-01 09:44:45 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-01 09:44:45 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-01 09:44:46 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (c4c638a72cf6f91a49c42cf2ca1217e4)] -> id: ap_password] Value : Sakina@123
+2023-02-01 09:44:46 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 09:44:57 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (c4c638a72cf6f91a49c42cf2ca1217e4)] -> id: signInSubmit]
+2023-02-01 09:44:57 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-01 09:44:58 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-01 09:44:58 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-01 09:44:58 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-01 09:44:58 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-01 09:44:58 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-01 09:45:00 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-01 09:45:00 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-01 09:45:00 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-01 10:25:39 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-01 10:25:41 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-01 10:25:41 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-01 10:25:49 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-01 10:25:55 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 10:26:07 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (77acc9448d10164f38c82801ca5622a1)] -> id: nav-hamburger-menu]
+2023-02-01 10:26:10 [INFO ] [PageBase] - [log] Click on All button
+2023-02-01 10:26:11 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 10:26:22 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (77acc9448d10164f38c82801ca5622a1)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-01 10:26:22 [INFO ] [PageBase] - [log] Click on All button
+2023-02-01 10:26:23 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 10:26:53 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (77acc9448d10164f38c82801ca5622a1)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-02-01 10:26:53 [INFO ] [PageBase] - [log] Click on All button
+2023-02-01 10:26:54 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 10:27:17 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (77acc9448d10164f38c82801ca5622a1)] -> id: buy-now-button]
+2023-02-01 10:27:17 [INFO ] [PageBase] - [log] Click on All button
+2023-02-01 10:27:18 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-01 10:27:18 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-01 10:27:18 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-01 10:27:18 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-01 10:27:18 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-01 10:27:20 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-01 10:27:23 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (7ebc22ec1f2abf286f99b7c4766ff209)] -> id: ap_email]
+2023-02-01 10:27:23 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-01 10:27:23 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-01 10:27:23 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (7ebc22ec1f2abf286f99b7c4766ff209)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-01 10:27:23 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 10:27:36 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (7ebc22ec1f2abf286f99b7c4766ff209)] -> id: continue]
+2023-02-01 10:27:36 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-01 10:27:37 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (7ebc22ec1f2abf286f99b7c4766ff209)] -> id: ap_password]
+2023-02-01 10:27:37 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-01 10:27:37 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-01 10:27:37 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (7ebc22ec1f2abf286f99b7c4766ff209)] -> id: ap_password] Value : Sakina@123
+2023-02-01 10:27:37 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 10:27:49 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (7ebc22ec1f2abf286f99b7c4766ff209)] -> id: signInSubmit]
+2023-02-01 10:27:49 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-01 10:27:50 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-01 10:27:50 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-01 10:27:56 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-01 17:47:23 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-01 17:47:29 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-01 17:47:29 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-01 17:47:35 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-01 17:47:48 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 17:48:00 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (ac432f8816584be57a6748d3d11d7174)] -> id: nav-hamburger-menu]
+2023-02-01 17:48:02 [INFO ] [PageBase] - [log] Click on All button
+2023-02-01 17:48:03 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 17:49:26 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-01\Amazon Page.jpg
+2023-02-01 17:49:28 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-01 17:49:28 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-01 17:49:28 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-01 17:49:28 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-01 17:49:28 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-01 17:49:30 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-01 17:49:32 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (26eeaf5e80a3c57e47c8798a6f6292fe)] -> id: ap_email]
+2023-02-01 17:49:32 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-01 17:49:32 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-01 17:49:33 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (26eeaf5e80a3c57e47c8798a6f6292fe)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-01 17:49:33 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 18:01:13 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-01 18:01:15 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-01 18:01:15 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-01 18:01:21 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-01 18:01:34 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 18:01:48 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (2d6661fcb2ba88b9dbe8b00b830cc71b)] -> id: nav-hamburger-menu]
+2023-02-01 18:01:50 [INFO ] [PageBase] - [log] Click on All button
+2023-02-01 18:01:51 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 18:02:02 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (2d6661fcb2ba88b9dbe8b00b830cc71b)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-01 18:02:02 [INFO ] [PageBase] - [log] Click on All button
+2023-02-01 18:02:15 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-01\Amazon Page.jpg
+2023-02-01 18:02:16 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-01 18:02:16 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-01 18:02:16 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-01 18:02:16 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-01 18:02:16 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-01 18:02:18 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-01 18:02:20 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (241530acd25285cee38a5657243fb806)] -> id: ap_email]
+2023-02-01 18:02:20 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-01 18:02:20 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-01 18:02:21 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (241530acd25285cee38a5657243fb806)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-01 18:02:21 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-01 18:02:33 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (241530acd25285cee38a5657243fb806)] -> id: continue]
+2023-02-01 18:02:33 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-01 18:02:34 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (241530acd25285cee38a5657243fb806)] -> id: ap_password]
+2023-02-01 18:02:34 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-01 18:02:34 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-01 18:02:34 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (241530acd25285cee38a5657243fb806)] -> id: ap_password] Value : Sakina@123
+2023-02-01 18:02:34 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 10:30:59 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 10:31:03 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 10:31:03 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 10:31:08 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 10:31:20 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 10:31:32 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (26e7a1e5e3970e67b016983f6c8317dc)] -> id: nav-hamburger-menu]
+2023-02-02 10:31:34 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 10:31:35 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 10:31:47 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (26e7a1e5e3970e67b016983f6c8317dc)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-02 10:31:47 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 10:31:59 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Page.jpg
+2023-02-02 10:32:00 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 10:32:00 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 10:32:01 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 10:32:01 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 10:32:01 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 10:32:02 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 10:32:06 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (fc87421f1a3781ea47705889de013383)] -> id: ap_email]
+2023-02-02 10:32:06 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 10:32:06 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 10:52:26 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 10:52:28 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 10:52:28 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 10:52:32 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 10:52:39 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 10:52:53 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (84af225d9e2abeb94c938cbea9d6708d)] -> id: nav-hamburger-menu]
+2023-02-02 10:52:56 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 10:52:57 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 10:54:20 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Page.jpg
+2023-02-02 10:54:23 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 10:54:23 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 10:54:23 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 10:54:23 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 10:54:23 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 10:54:25 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 10:54:29 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (6047f693b52fd996fd6564a7f9f5e8ac)] -> id: ap_email]
+2023-02-02 10:54:29 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 10:54:29 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 10:57:40 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 10:57:41 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 10:57:42 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 10:57:49 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 10:57:58 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 10:58:09 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (df74adc9f92002096795030065b8652a)] -> id: nav-hamburger-menu]
+2023-02-02 10:58:12 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 10:58:13 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 11:15:16 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 11:15:16 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 11:15:16 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 11:15:19 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 11:15:19 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 11:15:19 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 14:48:48 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 14:48:53 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 14:48:53 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 14:49:07 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 14:49:28 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 14:49:45 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (9c1d35d9163aa57ef7346dbe47327871)] -> xpath: //*[@href='https://www.makemytrip.com/flights/']]
+2023-02-02 14:49:50 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 14:49:51 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (9c1d35d9163aa57ef7346dbe47327871)] -> id: fromCity]
+2023-02-02 14:49:51 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 14:49:51 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 14:49:52 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (9c1d35d9163aa57ef7346dbe47327871)] -> id: toCity]
+2023-02-02 14:49:52 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 14:49:52 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 14:49:52 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (9c1d35d9163aa57ef7346dbe47327871)] -> id: fromCity]
+2023-02-02 14:49:52 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 14:49:52 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 14:49:52 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 14:50:06 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\MakeMyTrip Page.jpg
+2023-02-02 14:50:08 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 14:50:08 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 14:50:15 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 14:54:45 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 14:54:47 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 14:54:47 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 14:54:51 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 14:54:58 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 14:55:13 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (44ba29cc7b4a298e32c5d6b18a6337ee)] -> xpath: //*[@href='https://www.makemytrip.com/flights/']]
+2023-02-02 14:55:17 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 14:55:18 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (44ba29cc7b4a298e32c5d6b18a6337ee)] -> id: fromCity]
+2023-02-02 14:55:18 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 14:55:18 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 14:55:18 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (44ba29cc7b4a298e32c5d6b18a6337ee)] -> id: toCity]
+2023-02-02 14:55:18 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 14:55:19 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 14:55:19 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (44ba29cc7b4a298e32c5d6b18a6337ee)] -> id: fromCity]
+2023-02-02 14:55:19 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 14:55:19 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 14:55:19 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 14:55:33 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\MakeMyTrip Page.jpg
+2023-02-02 14:55:35 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 14:55:35 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 14:55:41 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 14:58:33 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 14:58:34 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 14:58:34 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 14:58:38 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 14:58:48 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 14:59:20 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (a80fbc1f003f0c8175d8acd2e82adc5f)] -> xpath: //*[@href='https://www.makemytrip.com/flights/']]
+2023-02-02 14:59:23 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 14:59:24 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (a80fbc1f003f0c8175d8acd2e82adc5f)] -> id: fromCity]
+2023-02-02 14:59:24 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 14:59:24 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 14:59:25 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (a80fbc1f003f0c8175d8acd2e82adc5f)] -> id: toCity]
+2023-02-02 14:59:25 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 14:59:25 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 14:59:25 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 14:59:39 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\MakeMyTrip Page.jpg
+2023-02-02 14:59:40 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 14:59:40 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 14:59:47 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 15:34:19 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 15:34:21 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 15:34:21 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 15:34:25 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 15:35:00 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:35:26 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (55f251c30efa696c560589d83495a482)] -> id: nav-hamburger-menu]
+2023-02-02 15:35:29 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 15:35:30 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:37:45 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 15:37:47 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 15:37:47 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 15:38:02 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 15:38:11 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:38:30 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (e590b8aaf14f993a91baab5b82efe3a0)] -> id: nav-hamburger-menu]
+2023-02-02 15:38:34 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 15:38:35 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:39:58 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Page.jpg
+2023-02-02 15:39:59 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 15:39:59 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 15:39:59 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 15:39:59 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 15:39:59 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 15:40:01 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 15:40:04 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (53a3340b43266eee702831a9e656d352)] -> id: ap_email]
+2023-02-02 15:40:04 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 15:40:04 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 15:40:05 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (53a3340b43266eee702831a9e656d352)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-02 15:40:05 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:45:19 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 15:45:21 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 15:45:21 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 15:45:34 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 15:45:42 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:45:54 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (14abddc153c060ebe63ed26d541de71d)] -> id: nav-hamburger-menu]
+2023-02-02 15:46:00 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 15:46:01 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:46:12 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (14abddc153c060ebe63ed26d541de71d)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-02 15:46:12 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 15:46:13 [INFO ] [WaitHelper] - [hardWait] 1500
+2023-02-02 15:46:15 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (14abddc153c060ebe63ed26d541de71d)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-02 15:46:15 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 15:46:26 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Page.jpg
+2023-02-02 15:46:27 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 15:46:27 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 15:46:28 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 15:46:28 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 15:46:28 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 15:46:30 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 15:46:33 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (2922a91fe2f0a23d8c202893f19be0ff)] -> id: ap_email]
+2023-02-02 15:46:33 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 15:46:33 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 15:46:34 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (2922a91fe2f0a23d8c202893f19be0ff)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-02 15:46:34 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:52:27 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 15:52:31 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 15:52:31 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 15:52:35 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 15:52:41 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:52:57 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (623ef0725f788f2d3a198c224dd85119)] -> id: nav-hamburger-menu]
+2023-02-02 15:53:00 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 15:53:01 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:53:12 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (623ef0725f788f2d3a198c224dd85119)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-02 15:53:12 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 15:53:13 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:53:38 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (623ef0725f788f2d3a198c224dd85119)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-02-02 15:53:38 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 15:53:39 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:53:55 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (623ef0725f788f2d3a198c224dd85119)] -> id: buy-now-button]
+2023-02-02 15:53:55 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 15:53:57 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 15:53:57 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 15:53:57 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 15:53:57 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 15:53:57 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 15:53:59 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 15:54:01 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (aa3baa0f27172161f326072deac96d49)] -> id: ap_email]
+2023-02-02 15:54:01 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 15:54:01 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 15:54:01 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (aa3baa0f27172161f326072deac96d49)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-02 15:54:01 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:54:13 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (aa3baa0f27172161f326072deac96d49)] -> id: continue]
+2023-02-02 15:54:13 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 15:54:14 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (aa3baa0f27172161f326072deac96d49)] -> id: ap_password]
+2023-02-02 15:54:14 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 15:54:15 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 15:54:15 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (aa3baa0f27172161f326072deac96d49)] -> id: ap_password] Value : Sakina@123
+2023-02-02 15:54:15 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:54:26 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (aa3baa0f27172161f326072deac96d49)] -> id: signInSubmit]
+2023-02-02 15:54:26 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 15:54:27 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 15:54:27 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 15:54:33 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 15:57:24 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 15:57:25 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 15:57:25 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 15:57:29 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 15:57:52 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 15:58:04 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (8622368c18866138058f36cc0129c1b6)] -> id: nav-hamburger-menu]
+2023-02-02 15:58:07 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 15:58:08 [INFO ] [WaitHelper] - [hardWait] 1500
+2023-02-02 15:58:09 [INFO ] [WaitHelper] - [waitForElementVisible] Proxy element for: AjaxElementLocator 'By.xpath: //*[@data-ref-tag='nav_em_1_1_1_6']'
+2023-02-02 15:58:40 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 15:59:05 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Page.jpg
+2023-02-02 15:59:07 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 15:59:07 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 15:59:07 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 15:59:07 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 15:59:07 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 15:59:08 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 16:27:30 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 16:27:31 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 16:27:32 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 16:27:44 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 16:27:59 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:28:11 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (2ff20888f4cccda97aa7e529d4e525b0)] -> id: nav-hamburger-menu]
+2023-02-02 16:28:14 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 16:28:15 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:29:38 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Page.jpg
+2023-02-02 16:29:39 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 16:29:39 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 16:29:39 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 16:29:39 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 16:29:39 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 16:29:42 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 16:29:44 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (ef1b74c66a409bb992a37eca7ed8ef70)] -> id: ap_email]
+2023-02-02 16:29:44 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 16:29:44 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 16:32:15 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 16:32:17 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 16:32:17 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 16:32:34 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 16:32:45 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:32:56 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (4e011be7888b3c1ec8038f65bb5359c6)] -> id: nav-hamburger-menu]
+2023-02-02 16:32:59 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 16:33:00 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:33:11 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (4e011be7888b3c1ec8038f65bb5359c6)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-02 16:33:11 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 16:33:12 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:33:52 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (4e011be7888b3c1ec8038f65bb5359c6)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-02-02 16:33:52 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 16:33:53 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:34:07 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (4e011be7888b3c1ec8038f65bb5359c6)] -> id: buy-now-button]
+2023-02-02 16:34:07 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 16:34:09 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 16:34:09 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 16:34:09 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 16:34:09 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 16:34:09 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 16:34:11 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 16:34:15 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (95fe8a7c98894db78e6a7db3d53c480c)] -> id: ap_email]
+2023-02-02 16:34:15 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 16:34:15 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 16:34:15 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (95fe8a7c98894db78e6a7db3d53c480c)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-02 16:34:15 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:34:28 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (95fe8a7c98894db78e6a7db3d53c480c)] -> id: continue]
+2023-02-02 16:34:28 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 16:34:29 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (95fe8a7c98894db78e6a7db3d53c480c)] -> id: ap_password]
+2023-02-02 16:34:29 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 16:34:29 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 16:34:29 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (95fe8a7c98894db78e6a7db3d53c480c)] -> id: ap_password] Value : Sakina@123
+2023-02-02 16:34:29 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:34:40 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (95fe8a7c98894db78e6a7db3d53c480c)] -> id: signInSubmit]
+2023-02-02 16:34:40 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 16:34:41 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (95fe8a7c98894db78e6a7db3d53c480c)] -> id: ap_email]
+2023-02-02 16:34:41 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 16:34:54 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Login.jpg
+2023-02-02 16:34:56 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 16:34:56 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 16:35:03 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 16:40:53 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 16:40:55 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 16:40:55 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 16:40:59 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 16:41:05 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:41:19 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (857e99240bea075e6fdc446630c332c6)] -> id: nav-hamburger-menu]
+2023-02-02 16:41:22 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 16:41:23 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:41:34 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (857e99240bea075e6fdc446630c332c6)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-02 16:41:34 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 16:41:35 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:41:53 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (857e99240bea075e6fdc446630c332c6)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-02-02 16:41:53 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 16:41:54 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:42:07 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (857e99240bea075e6fdc446630c332c6)] -> id: buy-now-button]
+2023-02-02 16:42:07 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 16:42:09 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 16:42:09 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 16:42:09 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 16:42:09 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 16:42:09 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 16:42:10 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 16:42:12 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (e7fb6d213f4f17ed35f556a423415f3a)] -> id: ap_email]
+2023-02-02 16:42:12 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 16:42:12 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 16:42:13 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (e7fb6d213f4f17ed35f556a423415f3a)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-02 16:42:13 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:42:25 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (e7fb6d213f4f17ed35f556a423415f3a)] -> id: continue]
+2023-02-02 16:42:25 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 16:42:27 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (e7fb6d213f4f17ed35f556a423415f3a)] -> id: ap_password]
+2023-02-02 16:42:27 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 16:42:27 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 16:42:27 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (e7fb6d213f4f17ed35f556a423415f3a)] -> id: ap_password] Value : Sakina@123
+2023-02-02 16:42:27 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 16:42:38 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (e7fb6d213f4f17ed35f556a423415f3a)] -> id: signInSubmit]
+2023-02-02 16:42:38 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 16:42:39 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (e7fb6d213f4f17ed35f556a423415f3a)] -> id: ap_email]
+2023-02-02 16:42:39 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 16:42:52 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Login.jpg
+2023-02-02 16:42:54 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 16:42:54 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 16:43:00 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 16:59:46 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 16:59:50 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 16:59:50 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 16:59:55 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:00:04 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:00:16 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (f93e404831ca59623726da096f0e8c30)] -> id: nav-hamburger-menu]
+2023-02-02 17:00:20 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:00:21 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:01:43 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Page.jpg
+2023-02-02 17:01:46 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 17:01:46 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 17:01:46 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:01:46 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:01:46 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:01:48 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:01:51 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (cd0f68a977ce5e423eb0ead7246dd059)] -> id: ap_email]
+2023-02-02 17:01:51 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 17:01:51 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 17:01:52 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (cd0f68a977ce5e423eb0ead7246dd059)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-02 17:01:52 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:02:05 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (cd0f68a977ce5e423eb0ead7246dd059)] -> id: continue]
+2023-02-02 17:02:05 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 17:02:06 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (cd0f68a977ce5e423eb0ead7246dd059)] -> id: ap_password]
+2023-02-02 17:02:06 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 17:02:06 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 17:02:06 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (cd0f68a977ce5e423eb0ead7246dd059)] -> id: ap_password] Value : Sakina@123
+2023-02-02 17:02:06 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:02:17 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (cd0f68a977ce5e423eb0ead7246dd059)] -> id: signInSubmit]
+2023-02-02 17:02:17 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 17:02:18 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (cd0f68a977ce5e423eb0ead7246dd059)] -> id: ap_email]
+2023-02-02 17:02:18 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 17:02:31 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Login.jpg
+2023-02-02 17:02:32 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 17:02:32 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 17:02:41 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 17:03:42 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:03:44 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:03:44 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:03:49 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:04:01 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:04:13 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (1963c416ef93f75fc5893b110e1f946a)] -> id: nav-hamburger-menu]
+2023-02-02 17:04:17 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:04:18 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:04:29 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (1963c416ef93f75fc5893b110e1f946a)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-02 17:04:29 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:04:30 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:05:17 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (1963c416ef93f75fc5893b110e1f946a)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-02-02 17:05:17 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:05:18 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:05:35 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (1963c416ef93f75fc5893b110e1f946a)] -> id: buy-now-button]
+2023-02-02 17:05:35 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:05:37 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 17:05:37 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 17:05:37 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:05:37 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:05:37 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:05:39 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:05:42 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (772a5564c606359c39a41c2f79fbad24)] -> id: ap_email]
+2023-02-02 17:05:42 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 17:05:42 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 17:05:42 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (772a5564c606359c39a41c2f79fbad24)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-02 17:05:42 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:05:55 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (772a5564c606359c39a41c2f79fbad24)] -> id: continue]
+2023-02-02 17:05:55 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 17:05:56 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (772a5564c606359c39a41c2f79fbad24)] -> id: ap_email]
+2023-02-02 17:05:56 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 17:06:07 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Login.jpg
+2023-02-02 17:06:09 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 17:06:09 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 17:06:17 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 17:09:24 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:09:26 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:09:26 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:09:31 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:09:41 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:09:55 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (59faddecaacf20cc29e6757fe9235b97)] -> id: nav-hamburger-menu]
+2023-02-02 17:10:00 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:10:01 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:10:12 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (59faddecaacf20cc29e6757fe9235b97)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-02 17:10:12 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:10:13 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:10:49 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (59faddecaacf20cc29e6757fe9235b97)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-02-02 17:10:49 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:10:50 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:11:04 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (59faddecaacf20cc29e6757fe9235b97)] -> id: buy-now-button]
+2023-02-02 17:11:04 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:11:07 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 17:11:07 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 17:11:07 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:11:07 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:11:07 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:11:09 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:11:11 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (a68ac2eb0876848927d382e723817ab7)] -> id: ap_email]
+2023-02-02 17:11:11 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 17:11:11 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 17:11:12 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (a68ac2eb0876848927d382e723817ab7)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-02 17:11:12 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:11:24 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (a68ac2eb0876848927d382e723817ab7)] -> id: continue]
+2023-02-02 17:11:24 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 17:37:25 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:37:27 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:37:27 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:37:31 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:37:37 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:37:48 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (7215543d10b6f335731d6d8d5475e197)] -> id: nav-hamburger-menu]
+2023-02-02 17:37:52 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:37:53 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:39:16 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Page.jpg
+2023-02-02 17:39:17 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 17:39:17 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 17:39:17 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:39:17 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:39:17 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:39:19 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:39:21 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (e90d5615d6a7468b7d5b9e889653065a)] -> id: ap_email]
+2023-02-02 17:39:21 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 17:39:21 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 17:39:22 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (e90d5615d6a7468b7d5b9e889653065a)] -> id: ap_email] Value : s.sakina@.com
+2023-02-02 17:39:22 [INFO ] [WaitHelper] - [waitForElementVisible] Proxy element for: AjaxElementLocator 'By.id: ap_password'
+2023-02-02 17:39:52 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 17:40:18 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Login.jpg
+2023-02-02 17:40:19 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 17:40:19 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 17:40:25 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 17:44:24 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:44:25 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:44:25 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:44:29 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:44:34 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:44:49 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (9de8106d55b962b952b2d15efe52a3db)] -> id: nav-hamburger-menu]
+2023-02-02 17:44:52 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:44:53 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:45:04 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (9de8106d55b962b952b2d15efe52a3db)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-02 17:45:04 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:45:06 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:45:25 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (9de8106d55b962b952b2d15efe52a3db)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-02-02 17:45:25 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:45:26 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:45:40 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (9de8106d55b962b952b2d15efe52a3db)] -> id: buy-now-button]
+2023-02-02 17:45:40 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:45:41 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 17:45:41 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 17:45:41 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:45:42 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:45:42 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:45:43 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:45:46 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 17:45:46 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 17:45:52 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 17:52:39 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:52:42 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:52:42 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:52:46 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:52:53 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:53:05 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (d83d1ebfe0cf71838fb64dcd229da107)] -> id: nav-hamburger-menu]
+2023-02-02 17:53:07 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:53:08 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:54:31 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Page.jpg
+2023-02-02 17:54:33 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 17:54:33 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 17:54:33 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:54:33 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:54:33 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:54:34 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:54:37 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (47a8fb9198bf1e021f5e21f10dbc6589)] -> id: ap_email]
+2023-02-02 17:54:37 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 17:54:37 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 17:54:37 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (47a8fb9198bf1e021f5e21f10dbc6589)] -> id: ap_email] Value : s.sakina@.com
+2023-02-02 17:54:37 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:54:50 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (47a8fb9198bf1e021f5e21f10dbc6589)] -> id: continue]
+2023-02-02 17:54:50 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 17:54:51 [INFO ] [WaitHelper] - [hardWait] 1500
+2023-02-02 17:54:52 [INFO ] [WaitHelper] - [waitForElementVisible] Proxy element for: AjaxElementLocator 'By.xpath: //*[text()='Enter your email or mobile phone number']'
+2023-02-02 17:55:23 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 17:55:48 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Login.jpg
+2023-02-02 17:55:48 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 17:55:48 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 17:55:55 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 17:57:13 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:57:15 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:57:15 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:57:18 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:57:21 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:57:36 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (a98f8f6e38df42b1f31a05037688bf06)] -> id: nav-hamburger-menu]
+2023-02-02 17:57:38 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 17:57:39 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:59:02 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Page.jpg
+2023-02-02 17:59:04 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 17:59:04 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 17:59:04 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 17:59:04 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 17:59:04 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 17:59:05 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 17:59:09 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 17:59:20 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (90b76fb9cd0bd3c7525314d22396fe24)] -> id: continue]
+2023-02-02 17:59:20 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 17:59:21 [INFO ] [WaitHelper] - [hardWait] 1500
+2023-02-02 17:59:22 [INFO ] [WaitHelper] - [waitForElementVisible] Proxy element for: AjaxElementLocator 'By.xpath: //*[text()='Enter your email or mobile phone number']'
+2023-02-02 17:59:53 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 18:00:18 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Login.jpg
+2023-02-02 18:00:18 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 18:00:18 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 18:00:25 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 18:06:37 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 18:06:41 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 18:06:41 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 18:06:50 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 18:06:58 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 18:07:09 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (90d5f0fdbea0b2d55a50e41de939f28d)] -> id: nav-hamburger-menu]
+2023-02-02 18:07:12 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 18:07:13 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 18:07:25 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (90d5f0fdbea0b2d55a50e41de939f28d)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-02 18:07:25 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 18:07:26 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 18:07:45 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (90d5f0fdbea0b2d55a50e41de939f28d)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-02-02 18:07:45 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 18:07:46 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 18:07:59 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (90d5f0fdbea0b2d55a50e41de939f28d)] -> id: buy-now-button]
+2023-02-02 18:07:59 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 18:08:00 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 18:08:00 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 18:08:01 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 18:08:01 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 18:08:01 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 18:08:02 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 18:08:04 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 18:08:15 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (63182e9bc3aaad260e5aed895996f8ae)] -> id: continue]
+2023-02-02 18:08:15 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 18:08:16 [INFO ] [WaitHelper] - [hardWait] 1500
+2023-02-02 18:08:18 [INFO ] [WaitHelper] - [waitForElementVisible] Proxy element for: AjaxElementLocator 'By.xpath: //*[text()='Enter your email or mobile phone number']'
+2023-02-02 18:08:48 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 18:09:13 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-02\Amazon Login.jpg
+2023-02-02 18:09:14 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 18:09:14 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 18:09:21 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-02 18:24:05 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 18:24:06 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 18:24:06 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 18:24:12 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 18:24:19 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 18:24:31 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (70a148ec33160801a5efa0cf247736f5)] -> id: nav-hamburger-menu]
+2023-02-02 18:24:34 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 18:24:35 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 18:24:46 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (70a148ec33160801a5efa0cf247736f5)] -> xpath: //*[@data-ref-tag='nav_em_1_1_1_6']]
+2023-02-02 18:24:46 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 18:24:47 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 18:25:09 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (70a148ec33160801a5efa0cf247736f5)] -> xpath: //*[@href='/dp/B07PFFMP9P?ref_=nav_em_in_pc_sbc_dot_0_2_2_3']]
+2023-02-02 18:25:09 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 18:25:10 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 18:25:24 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (70a148ec33160801a5efa0cf247736f5)] -> id: buy-now-button]
+2023-02-02 18:25:24 [INFO ] [PageBase] - [log] Click on All button
+2023-02-02 18:25:26 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 18:25:26 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 18:25:26 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-02 18:25:26 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-02-02 18:25:26 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-02 18:25:27 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-02 18:25:30 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 18:25:41 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (f1c023f9d4636f47b610cead02856279)] -> id: continue]
+2023-02-02 18:25:41 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 18:25:42 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (f1c023f9d4636f47b610cead02856279)] -> id: ap_email]
+2023-02-02 18:25:42 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 18:25:42 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 18:25:42 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (f1c023f9d4636f47b610cead02856279)] -> id: ap_email] Value : Sakina12@gmail.com
+2023-02-02 18:25:42 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 18:25:55 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (f1c023f9d4636f47b610cead02856279)] -> id: continue]
+2023-02-02 18:25:55 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 18:25:56 [INFO ] [WaitHelper] - [waitForElementVisible] [[ChromeDriver: chrome on WINDOWS (f1c023f9d4636f47b610cead02856279)] -> id: ap_password]
+2023-02-02 18:25:56 [INFO ] [WaitHelper] - [setImplicitWait] 1
+2023-02-02 18:25:56 [INFO ] [WaitHelper] - [setImplicitWait] 10
+2023-02-02 18:25:56 [INFO ] [TextBoxHelper] - [clearAndSendKeys] Element : [[ChromeDriver: chrome on WINDOWS (f1c023f9d4636f47b610cead02856279)] -> id: ap_password] Value : Sakina@123
+2023-02-02 18:25:56 [INFO ] [WaitHelper] - [hardWait] 900
+2023-02-02 18:26:07 [INFO ] [ButtonHelper] - [click] [[ChromeDriver: chrome on WINDOWS (f1c023f9d4636f47b610cead02856279)] -> id: signInSubmit]
+2023-02-02 18:26:07 [INFO ] [PageBase] - [log] Click on Continue button
+2023-02-02 18:26:09 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-02 18:26:09 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-02 18:26:15 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-09 12:49:25 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-09 12:49:29 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 110.0.5481.77 (resolved driver for Chrome 110)
+2023-02-09 12:49:29 [INFO ] [WebDriverManager] - [logSeekRepo] Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2023-02-09 12:49:31 [INFO ] [Downloader] - [downloadAndExtract] Downloading https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip
+2023-02-09 12:49:41 [INFO ] [Downloader] - [extract] Extracting driver from compressed file chromedriver_win32.zip
+2023-02-09 12:49:41 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-09 12:49:46 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-09 12:49:47 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-09\MakeMyTrip Page.jpg
+2023-02-09 12:49:50 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-09 12:49:50 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-09 12:54:24 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-09 12:54:25 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 110.0.5481.77 (resolved driver for Chrome 110)
+2023-02-09 12:54:25 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-09 12:54:30 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-09 12:54:30 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-09\MakeMyTrip Page.jpg
+2023-02-09 12:54:34 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-09 12:54:34 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-09 16:10:26 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-09 16:10:31 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 110.0.5481.77 (resolved driver for Chrome 110)
+2023-02-09 16:10:31 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-09 16:10:45 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-09 16:10:45 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-09\MakeMyTrip Page.jpg
+2023-02-09 16:10:50 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-09 16:10:50 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-09 16:13:00 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-09 16:13:02 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 110.0.5481.77 (resolved driver for Chrome 110)
+2023-02-09 16:13:02 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-09 16:13:08 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-09 16:13:08 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-09\MakeMyTrip Page.jpg
+2023-02-09 16:13:12 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-09 16:13:12 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-09 16:13:20 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
+2023-02-10 11:27:28 [INFO ] [InitializeWebDriver] - [standAloneStepUp] Chrome
+2023-02-10 11:27:33 [INFO ] [WebDriverManager] - [resolveDriverVersion] Using chromedriver 110.0.5481.77 (resolved driver for Chrome 110)
+2023-02-10 11:27:33 [INFO ] [WebDriverManager] - [exportDriver] Exporting webdriver.chrome.driver as C:\Users\ecs\.cache\selenium\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-10 11:27:38 [INFO ] [InitializeWebDriver] - [before] Chrome
+2023-02-10 11:27:38 [INFO ] [GenericHelper] - [takeScreenShot] C:\Users\ecs\eclipse-workspace\Test_Automation\Test_Automation\target\test-classes\screenshots\_2023-02-10\MakeMyTrip Page.jpg
+2023-02-10 11:27:42 [INFO ] [InitializeWebDriver] - [tearDownDriver] Shutting Down the driver
+2023-02-10 11:27:42 [INFO ] [InitializeWebDriver] - [after] 
+2023-02-10 11:27:50 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports

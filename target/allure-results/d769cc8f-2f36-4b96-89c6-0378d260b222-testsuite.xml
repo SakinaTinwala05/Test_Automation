@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1675165132413" stop="1675165212069" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test - 1</name>
+    <title>Suite : Test - 1</title>
+    <test-cases>
+        <test-case start="1675165134562" stop="1675165206730" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675165160070" stop="1675165160074" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675165172346" stop="1675165172348" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675165190776" stop="1675165190777" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675165205108" stop="1675165205113" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8252@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675165134562" stop="1675165206730" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675165160070" stop="1675165160074" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675165172346" stop="1675165172348" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675165190776" stop="1675165190777" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675165205108" stop="1675165205113" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8252@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675165134562" stop="1675165206730" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675165160070" stop="1675165160074" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675165172346" stop="1675165172348" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675165190776" stop="1675165190777" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675165205108" stop="1675165205113" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8252@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675165134562" stop="1675165206730" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675165160070" stop="1675165160074" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675165172346" stop="1675165172348" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675165190776" stop="1675165190777" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675165205108" stop="1675165205113" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8252@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675165206748" stop="1675165210276" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>Error: Unresolved compilation problem: 
+	The type PropertyFileReader must implement the inherited abstract method IconfigReader.LoginURLs()
+</message>
+                <stack-trace>java.lang.Error: Unresolved compilation problem: 
+	The type PropertyFileReader must implement the inherited abstract method IconfigReader.LoginURLs()
+&#13;
+	at com.PSC.framework.configreader.PropertyFileReader.LoginURLs(PropertyFileReader.java:9)&#13;
+	at com.PSC.helper.PageObject.LoginPage.navigateToLoginScreen(LoginPage.java:113)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.user_navigate_to_amazon_login_page(AmazonPage.java:19)&#13;
+	at ✽.User navigate to Amazon Login Page(classpath:BackOffice/Amazon.feature:13)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="41fbe2aa-1a65-4bd5-8a69-630e94c3e8d5-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8252@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675165206748" stop="1675165210276" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>Error: Unresolved compilation problem: 
+	The type PropertyFileReader must implement the inherited abstract method IconfigReader.LoginURLs()
+</message>
+                <stack-trace>java.lang.Error: Unresolved compilation problem: 
+	The type PropertyFileReader must implement the inherited abstract method IconfigReader.LoginURLs()
+&#13;
+	at com.PSC.framework.configreader.PropertyFileReader.LoginURLs(PropertyFileReader.java:9)&#13;
+	at com.PSC.helper.PageObject.LoginPage.navigateToLoginScreen(LoginPage.java:113)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.user_navigate_to_amazon_login_page(AmazonPage.java:19)&#13;
+	at ✽.User navigate to Amazon Login Page(classpath:BackOffice/Amazon.feature:13)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="41fbe2aa-1a65-4bd5-8a69-630e94c3e8d5-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8252@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675165206748" stop="1675165210276" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>Error: Unresolved compilation problem: 
+	The type PropertyFileReader must implement the inherited abstract method IconfigReader.LoginURLs()
+</message>
+                <stack-trace>java.lang.Error: Unresolved compilation problem: 
+	The type PropertyFileReader must implement the inherited abstract method IconfigReader.LoginURLs()
+&#13;
+	at com.PSC.framework.configreader.PropertyFileReader.LoginURLs(PropertyFileReader.java:9)&#13;
+	at com.PSC.helper.PageObject.LoginPage.navigateToLoginScreen(LoginPage.java:113)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.user_navigate_to_amazon_login_page(AmazonPage.java:19)&#13;
+	at ✽.User navigate to Amazon Login Page(classpath:BackOffice/Amazon.feature:13)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="41fbe2aa-1a65-4bd5-8a69-630e94c3e8d5-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8252@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675165206748" stop="1675165210276" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>Error: Unresolved compilation problem: 
+	The type PropertyFileReader must implement the inherited abstract method IconfigReader.LoginURLs()
+</message>
+                <stack-trace>java.lang.Error: Unresolved compilation problem: 
+	The type PropertyFileReader must implement the inherited abstract method IconfigReader.LoginURLs()
+&#13;
+	at com.PSC.framework.configreader.PropertyFileReader.LoginURLs(PropertyFileReader.java:9)&#13;
+	at com.PSC.helper.PageObject.LoginPage.navigateToLoginScreen(LoginPage.java:113)&#13;
+	at com.PSC.framework.stepDefinition.AmazonPage.user_navigate_to_amazon_login_page(AmazonPage.java:19)&#13;
+	at ✽.User navigate to Amazon Login Page(classpath:BackOffice/Amazon.feature:13)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments>
+                <attachment title="screenshot" source="41fbe2aa-1a65-4bd5-8a69-630e94c3e8d5-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8252@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

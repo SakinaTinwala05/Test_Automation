@@ -1,0 +1,8 @@
+#surefire_0
+#Mon Jan 30 11:53:36 IST 2023
+isHeadless=false
+user.dir=C\:\\Users\\ecs\\eclipse-workspace\\Test_Automation\\Test_Automation
+style.color=always
+basedir=C\:\\Users\\ecs\\eclipse-workspace\\Test_Automation\\Test_Automation
+API=false
+localRepository=C\:\\Users\\ecs\\.m2\\repository

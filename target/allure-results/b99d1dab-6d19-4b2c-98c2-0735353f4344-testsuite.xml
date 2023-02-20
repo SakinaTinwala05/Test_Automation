@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1675067228858" stop="1675067241791" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1675067230837" stop="1675067239732" status="broken">
+            <name>runScenario["Facebook Login","Optional[Facebook Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>UndefinedStepException: The step 'User navigate to Facebook Login Page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User navigate to Facebook Login Page")
+public void user_navigate_to_facebook_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Facebook login page is displayed with Email, Password, Login button, Forgotten account Link and Sign up for Facebook Link")
+public void facebook_login_page_is_displayed_with_email_password_login_button_forgotten_account_link_and_sign_up_for_facebook_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User Enter email and Password")
+public void user_enter_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Click on login")
+public void click_on_login() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User will be redirected to Facebook page")
+public void user_will_be_redirected_to_facebook_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+</message>
+                <stack-trace>io.cucumber.testng.UndefinedStepException: The step 'User navigate to Facebook Login Page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User navigate to Facebook Login Page")
+public void user_navigate_to_facebook_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Facebook login page is displayed with Email, Password, Login button, Forgotten account Link and Sign up for Facebook Link")
+public void facebook_login_page_is_displayed_with_email_password_login_button_forgotten_account_link_and_sign_up_for_facebook_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User Enter email and Password")
+public void user_enter_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Click on login")
+public void click_on_login() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User will be redirected to Facebook page")
+public void user_will_be_redirected_to_facebook_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+	at io.cucumber.core.runtime.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:69)&#13;
+	at io.cucumber.testng.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:23)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:133)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11860@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675067230837" stop="1675067239732" status="broken">
+            <name>runScenario["Facebook Login","Optional[Facebook Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>UndefinedStepException: The step 'User navigate to Facebook Login Page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User navigate to Facebook Login Page")
+public void user_navigate_to_facebook_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Facebook login page is displayed with Email, Password, Login button, Forgotten account Link and Sign up for Facebook Link")
+public void facebook_login_page_is_displayed_with_email_password_login_button_forgotten_account_link_and_sign_up_for_facebook_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User Enter email and Password")
+public void user_enter_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Click on login")
+public void click_on_login() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User will be redirected to Facebook page")
+public void user_will_be_redirected_to_facebook_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+</message>
+                <stack-trace>io.cucumber.testng.UndefinedStepException: The step 'User navigate to Facebook Login Page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User navigate to Facebook Login Page")
+public void user_navigate_to_facebook_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Facebook login page is displayed with Email, Password, Login button, Forgotten account Link and Sign up for Facebook Link")
+public void facebook_login_page_is_displayed_with_email_password_login_button_forgotten_account_link_and_sign_up_for_facebook_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User Enter email and Password")
+public void user_enter_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Click on login")
+public void click_on_login() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User will be redirected to Facebook page")
+public void user_will_be_redirected_to_facebook_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+	at io.cucumber.core.runtime.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:69)&#13;
+	at io.cucumber.testng.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:23)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:133)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11860@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675067230837" stop="1675067239732" status="broken">
+            <name>runScenario["Facebook Login","Optional[Facebook Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>UndefinedStepException: The step 'User navigate to Facebook Login Page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User navigate to Facebook Login Page")
+public void user_navigate_to_facebook_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Facebook login page is displayed with Email, Password, Login button, Forgotten account Link and Sign up for Facebook Link")
+public void facebook_login_page_is_displayed_with_email_password_login_button_forgotten_account_link_and_sign_up_for_facebook_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User Enter email and Password")
+public void user_enter_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Click on login")
+public void click_on_login() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User will be redirected to Facebook page")
+public void user_will_be_redirected_to_facebook_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+</message>
+                <stack-trace>io.cucumber.testng.UndefinedStepException: The step 'User navigate to Facebook Login Page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User navigate to Facebook Login Page")
+public void user_navigate_to_facebook_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Facebook login page is displayed with Email, Password, Login button, Forgotten account Link and Sign up for Facebook Link")
+public void facebook_login_page_is_displayed_with_email_password_login_button_forgotten_account_link_and_sign_up_for_facebook_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User Enter email and Password")
+public void user_enter_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Click on login")
+public void click_on_login() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User will be redirected to Facebook page")
+public void user_will_be_redirected_to_facebook_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+	at io.cucumber.core.runtime.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:69)&#13;
+	at io.cucumber.testng.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:23)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:133)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11860@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675067230837" stop="1675067239732" status="broken">
+            <name>runScenario["Facebook Login","Optional[Facebook Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>UndefinedStepException: The step 'User navigate to Facebook Login Page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User navigate to Facebook Login Page")
+public void user_navigate_to_facebook_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Facebook login page is displayed with Email, Password, Login button, Forgotten account Link and Sign up for Facebook Link")
+public void facebook_login_page_is_displayed_with_email_password_login_button_forgotten_account_link_and_sign_up_for_facebook_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User Enter email and Password")
+public void user_enter_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Click on login")
+public void click_on_login() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User will be redirected to Facebook page")
+public void user_will_be_redirected_to_facebook_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+</message>
+                <stack-trace>io.cucumber.testng.UndefinedStepException: The step 'User navigate to Facebook Login Page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User navigate to Facebook Login Page")
+public void user_navigate_to_facebook_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Facebook login page is displayed with Email, Password, Login button, Forgotten account Link and Sign up for Facebook Link")
+public void facebook_login_page_is_displayed_with_email_password_login_button_forgotten_account_link_and_sign_up_for_facebook_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User Enter email and Password")
+public void user_enter_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Click on login")
+public void click_on_login() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User will be redirected to Facebook page")
+public void user_will_be_redirected_to_facebook_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+	at io.cucumber.core.runtime.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:69)&#13;
+	at io.cucumber.testng.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:23)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:133)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="11860@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

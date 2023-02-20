@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1675340061494" stop="1675340148227" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test - 1</name>
+    <title>Suite : Test - 1</title>
+    <test-cases>
+        <test-case start="1675340063505" stop="1675340141848" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675340092762" stop="1675340092767" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675340104956" stop="1675340104957" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675340125179" stop="1675340125180" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675340140176" stop="1675340140179" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8856@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675340063505" stop="1675340141848" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675340092762" stop="1675340092767" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675340104956" stop="1675340104957" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675340125179" stop="1675340125180" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675340140176" stop="1675340140179" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8856@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675340063505" stop="1675340141848" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675340092762" stop="1675340092767" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675340104956" stop="1675340104957" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675340125179" stop="1675340125180" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675340140176" stop="1675340140179" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8856@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675340063505" stop="1675340141848" status="passed">
+            <name>runScenario["Amazon Page","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <steps>
+                <step start="1675340092762" stop="1675340092767" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675340104956" stop="1675340104957" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675340125179" stop="1675340125180" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1675340140176" stop="1675340140179" status="passed">
+                    <name>log[Click on All button, false]</name>
+                    <title>Click on All button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8856@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675340141870" stop="1675340146377" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>UndefinedStepException: The step 'User Enter invalid email and password' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("User Enter invalid email and password")
+public void user_enter_invalid_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+</message>
+                <stack-trace>io.cucumber.testng.UndefinedStepException: The step 'User Enter invalid email and password' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("User Enter invalid email and password")
+public void user_enter_invalid_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+	at io.cucumber.core.runtime.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:69)&#13;
+	at io.cucumber.testng.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:23)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:133)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8856@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675340141870" stop="1675340146377" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>UndefinedStepException: The step 'User Enter invalid email and password' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("User Enter invalid email and password")
+public void user_enter_invalid_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+</message>
+                <stack-trace>io.cucumber.testng.UndefinedStepException: The step 'User Enter invalid email and password' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("User Enter invalid email and password")
+public void user_enter_invalid_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+	at io.cucumber.core.runtime.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:69)&#13;
+	at io.cucumber.testng.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:23)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:133)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8856@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675340141870" stop="1675340146377" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>UndefinedStepException: The step 'User Enter invalid email and password' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("User Enter invalid email and password")
+public void user_enter_invalid_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+</message>
+                <stack-trace>io.cucumber.testng.UndefinedStepException: The step 'User Enter invalid email and password' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("User Enter invalid email and password")
+public void user_enter_invalid_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+	at io.cucumber.core.runtime.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:69)&#13;
+	at io.cucumber.testng.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:23)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:133)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8856@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1675340141870" stop="1675340146377" status="broken">
+            <name>runScenario["Amazon Login","Optional[Amazon Test Caces]"]</name>
+            <description>Runs Cucumber Scenarios</description>
+            <failure>
+                <message>UndefinedStepException: The step 'User Enter invalid email and password' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("User Enter invalid email and password")
+public void user_enter_invalid_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+</message>
+                <stack-trace>io.cucumber.testng.UndefinedStepException: The step 'User Enter invalid email and password' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("User Enter invalid email and password")
+public void user_enter_invalid_email_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+	at io.cucumber.core.runtime.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:69)&#13;
+	at io.cucumber.testng.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:23)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:133)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$3(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:151)&#13;
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)&#13;
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)&#13;
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)&#13;
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)&#13;
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)&#13;
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)&#13;
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)&#13;
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)&#13;
+	at org.testng.TestRunner.run(TestRunner.java:632)&#13;
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)&#13;
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)&#13;
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)&#13;
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)&#13;
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)&#13;
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)&#13;
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)&#13;
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)&#13;
+	at org.testng.TestNG.run(TestNG.java:1064)&#13;
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)&#13;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)&#13;
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)&#13;
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-8TF2HVC"/>
+                <label name="thread" value="8856@DESKTOP-8TF2HVC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
